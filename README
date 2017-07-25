@@ -26,4 +26,10 @@ python twitter_streaming.py
 For the output  saved it in a txt file
 python twitter_streaming.py > twitter_stream_1000tweets.txt
 
+---
+Run Timeline
 
+python twitter-user-timeline.py
+
+For the output  saved it in a txt file
+python twitter-user-timeline.py  > twitter_user_timeline.txt
