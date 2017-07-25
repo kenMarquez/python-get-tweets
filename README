@@ -1,0 +1,21 @@
+Twitter API:
+https://dev.twitter.com/rest/reference/get/search/tweets
+
+Tutorial:
+http://socialmedia-class.org/twittertutorial.html
+
+Twitter Python Library
+https://pypi.python.org/pypi/twitter
+
+Install Twitter Python Library
+$ python setup.py --help
+$ python setup.py build
+$ python setup.py install
+
+
+Aditional Filters
+
+https://dev.twitter.com/streaming/overview/request-parameters
+
+
+
