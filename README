@@ -8,6 +8,7 @@ Twitter Python Library
 https://pypi.python.org/pypi/twitter
 
 Install Twitter Python Library
+$ cd twitter-1.17.1
 $ python setup.py --help
 $ python setup.py build
 $ python setup.py install
@@ -17,5 +18,12 @@ Aditional Filters
 
 https://dev.twitter.com/streaming/overview/request-parameters
 
+
+Run
+python twitter_streaming.py
+
+
+For the output  saved it in a txt file
+python twitter_streaming.py > twitter_stream_1000tweets.txt
 
 
