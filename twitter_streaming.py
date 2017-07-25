@@ -32,7 +32,7 @@ for tweet in iterator:
     # Twitter Python Tool wraps the data returned by Twitter
     # as a TwitterDictResponse object.
     # We convert it back to the JSON format to print/score
-    print (json.dumps(tweet,4))
+    print(json.dumps(tweet,4));
 
     # The command below will do pretty printing for JSON data, try it out
     # print json.dumps(tweet, indent=4)
